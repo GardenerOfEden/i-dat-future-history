@@ -1,18 +1,18 @@
 title: "i-DAT Future History"
 remote_theme: pmarsceill/just-the-docs
-color_scheme: "dark"
-search_enabled: false
+color_scheme: nil
+search_enabled: true
 
 # Aux links for the upper right navigation
-#aux_links:
-#  "i-DAT FH on GitHub":
-#    - "//github.com/GardenerOfEden/i-dat-future-history"
+aux_links:
+  "i-DAT FH on GitHub":
+    - "//github.com/GardenerOfEden/i-dat-future-history"
 
 # Heading anchor links appear on hover over h1-h6 tags in page content
 # allowing users to deep link to a particular heading on a page.
 #
 # Supports true (default) or false/nil
-#heading_anchors: true
+heading_anchors: true
 
 # Footer content appears at the bottom of every page's main content
-#footer_content: "Curated by current students of i-DAT, Plymouth University [DAT602 Everyware]"
+footer_content: "Curated by current students of i-DAT, Plymouth University [DAT602 Everyware]"
