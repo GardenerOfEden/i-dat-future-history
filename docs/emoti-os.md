@@ -8,9 +8,9 @@ nav_order: 3
 
 **Date** November 2017
 
-**[i-DAT Link](https://i-dat.org/emoti-os-me/)**
-_(contains images of system)_
-**[Project Link](https://emoti-os.me/)**
+**[i-DAT Link](https://i-dat.org/emoti-os-me/)**  
+_(contains images of system)_  
+**[Project Link](https://emoti-os.me/)**  
 **[Video Demonstration](https://vimeo.com/242541735)**
 
 ## i-DAT's Description
