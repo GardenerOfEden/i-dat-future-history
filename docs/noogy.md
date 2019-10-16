@@ -8,8 +8,8 @@ nav_order: 2
 
 **Date** 16 – 19 November 2006
 
-[i-DAT Link](https://i-dat.org/2006-noogy/)
-_Contains images of backend, media and setup_
+**[i-DAT Link](https://i-dat.org/2006-noogy/)**
+_(contains images of backend, media and setup)_
 
 ## i-DAT's Description
 
