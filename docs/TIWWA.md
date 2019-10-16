@@ -21,9 +21,7 @@ lives, contributing to an evolving art work which questions the influence of alg
   representing the life of the building and the collective behaviour of its inhabitants.
 
 
-## "A technological fusion of interactive light and sound, this dynamic data driven artwork asks 
-## audiences to consider the data they generate and the algorithms that increasingly influence their behaviour. 
-## This Is Where We Are offers a glimpse into a future where we work rest and play with and through algorithms."
+## "A technological fusion of interactive light and sound, this dynamic data driven artwork asks audiences to consider the data they generate and the algorithms that increasingly influence their behaviour. This Is Where We Are offers a glimpse into a future where we work rest and play with and through algorithms."
 
 
 ![Image of TIWWA](https://i-dat.org/wp-content/uploads/2016/07/20160618_213418.jpg)
