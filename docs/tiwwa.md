@@ -11,9 +11,10 @@ nav_order: 5
 **[i-DAT Link](http://quorum.i-dat.org/tiwwa/)**  
 **[Supporting Video](https://www.youtube.com/watch?v=q6tNeNYg4mE)**
 
-## Papers
+## Related Papers
 
-[**‘This is Where We Are’ – Collectively Living, Working and being, with and through Predictive Algorithms** Birgitte Aga, Mike Phillips](https://scienceopen.com/document?vid=09c7137a-361b-4dc1-b9df-b18df06db75d)
+[**‘This is Where We Are’ – Collectively Living, Working and being, with and through Predictive Algorithms** Birgitte Aga, Mike Phillips](https://scienceopen.com/document?vid=09c7137a-361b-4dc1-b9df-b18df06db75d)  
+[**Prototyping relational things that talk : a discursive design strategy for conversational AI systems** Birgitte Aga](https://ethos.bl.uk/OrderDetails.do?did=1&uin=uk.bl.ethos.780891)
 
 ## i-DAT's Description
 

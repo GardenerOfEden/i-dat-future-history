@@ -13,6 +13,10 @@ nav_order: 7
 
 **[i-DAT Link](https://i-dat.org/the-infinite-guide/)** _(contains additional media)_
 
+## Related Papers
+
+[**Prototyping relational things that talk : a discursive design strategy for conversational AI systems** Birgitte Aga](https://ethos.bl.uk/OrderDetails.do?did=1&uin=uk.bl.ethos.780891)
+
 ## i-DAT's Description
 
 A SPECULATIVE ART WORK AND RESEARCH PROJECT, POWERED BY A CONVERSATIONAL ARTIFICIAL INTELLIGENCE.
