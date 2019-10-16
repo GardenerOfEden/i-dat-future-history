@@ -6,7 +6,7 @@ nav_order: 7
 
 # The Infinite Guide
 
-**Dates**
+**Dates**  
 30 Aug – 01 Sept FACT Workshop /  
 30 Aug – 09 Sept WWW.THEINFINITE.GUIDE /  
 01-09 September KARST Exhibition /
