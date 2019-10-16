@@ -6,7 +6,7 @@ nav_order: 10
 
 # Artory
 
-**Date** November 2014
+**Date** December 2014 (App Release)
 
 **[i-DAT Link](https://i-dat.org/artory/)**  
 **[Project Website](http://www.artory.co.uk/)** _(contains extra info, videos etc.)_  
