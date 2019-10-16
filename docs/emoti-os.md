@@ -1,15 +1,14 @@
 ---
 title: emoti-os.me
 has_children: false
-nav_order: 3
+nav_order: 4
 ---
 
 # emoti-os.me
 
 **Date** November 2017
 
-**[i-DAT Link](https://i-dat.org/emoti-os-me/)**  
-_(contains images of system)_  
+**[i-DAT Link](https://i-dat.org/emoti-os-me/)** _(contains images of system)_  
 **[Project Link](https://emoti-os.me/)**  
 **[Video Demonstration](https://vimeo.com/242541735)**
 
