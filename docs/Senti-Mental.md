@@ -12,4 +12,6 @@ and playful experimentation with creative technology. Quorum is an algorithmic s
 by material and virtual environments and the physical and social behaviour of audiences. It incorporates bio-inspired 
 algorithmic swarm decentralised decision making processes to generate a dynamic and evolving collective
 
-![Senti-Mental] (https://i-dat.org/wp-content/blogs.dir/28/files/2016/10/Screen-Shot-2015-04-17-at-10.39.31.png)
+![Senti-Mental] (http://i-dat.org/wp-content/uploads/2016/10/Screen-Shot-2015-04-17-at-10.39.31.png)
+
+![Senti-Mental2] (http://i-dat.org/wp-content/uploads/2016/10/Brainiac4.jpg)
