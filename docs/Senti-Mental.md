@@ -11,3 +11,5 @@ Senti-Mental incorporates aspects of i-DAT’s Quarum Sensing Project which expl
 and playful experimentation with creative technology. Quorum is an algorithmic system that feeds off data generated 
 by material and virtual environments and the physical and social behaviour of audiences. It incorporates bio-inspired 
 algorithmic swarm decentralised decision making processes to generate a dynamic and evolving collective
+
+![Senti-Mental] (https://i-dat.org/wp-content/blogs.dir/28/files/2016/10/Screen-Shot-2015-04-17-at-10.39.31.png)
