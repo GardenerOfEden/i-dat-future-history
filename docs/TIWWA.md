@@ -1,11 +1,4 @@
----
-title: This is Where We Are
-parent: Test
-has_children: true
-nav_order: 1
----
-
-<h1>This is Where We Are<h1>
+# This is Where We Are
   
 http://quorum.i-dat.org/tiwwa/
 

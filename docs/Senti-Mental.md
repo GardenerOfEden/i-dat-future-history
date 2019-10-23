@@ -1,4 +1,4 @@
-<h1>Senti-Mental<h1>
+# Senti-Mental
 
 22 October 2016, 11am – 3pm, the ground floor of Plymouth University’s iconic Roland Levinsky Building.
 Senti-Mental is a ludic brain model derived from a melding of an MRI scan and real-time twitter feeds 

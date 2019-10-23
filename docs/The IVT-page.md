@@ -1,10 +1,4 @@
----
-title: The IVT
-has_children: true
-nav_order: 2
----
-
-<h1>The Immersive Vision Theatre<h1>
+# The Immersive Vision Theatre
 
 https://i-dat.org/ivt/
 
